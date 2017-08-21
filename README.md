@@ -4,7 +4,7 @@ This is a Movie App built in [ReactJS](http://facebook.github.io/react/index.htm
 It uses open [The Movie Database (TMDb) API](https://www.themoviedb.org/documentation/api) to display data.
 
 ![](https://github.com/man007yadav/Mini-IMDB/docs/images/screencapture-main.png)
-![](https://github.com/man007yadav/Mini-IMDB/docs/images/screencapture-detail.png)
+![](https://github.com/man007yadav/Mini-IMDB/blob/master/docs/images/screencapture-detail.png)
 
 ## Features
 
